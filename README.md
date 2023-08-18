@@ -25,8 +25,7 @@ To explore this project:
 
 1. Clone the repository: `git clone https://github.com/your-username/image-classification-deep-learning.git`
 2. Set up your environment and dependencies. Consider using virtual environments or containers.
-3. Navigate to specific model directories for implementation details.
-4. Experiment with the code and adapt it for your own projects.
+3. Access the Jupyter Notebook files in the `notebooks/` directory to review the code and results interactively.
 
 ## Acknowledgments
 
