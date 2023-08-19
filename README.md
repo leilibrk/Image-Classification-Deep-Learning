@@ -25,7 +25,7 @@ To explore this project:
 
 1. Clone the repository: `git clone https://github.com/leilibrk/Image-Classification-Deep-Learning.git`
 2. Set up your environment and dependencies. Consider using virtual environments or containers.
-3. Access the Jupyter Notebook files in the `notebooks/` directory to review the code and results interactively.
+3. Access the Jupyter Notebook files to review the code and results interactively.
 
 ## Acknowledgments
 
