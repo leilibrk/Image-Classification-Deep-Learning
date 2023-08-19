@@ -23,7 +23,7 @@ The models were trained on a comprehensive dataset consisting of 100,000 images,
 
 To explore this project:
 
-1. Clone the repository: `git clone https://github.com/your-username/image-classification-deep-learning.git`
+1. Clone the repository: `git clone https://github.com/leilibrk/Image-Classification-Deep-Learning.git`
 2. Set up your environment and dependencies. Consider using virtual environments or containers.
 3. Access the Jupyter Notebook files in the `notebooks/` directory to review the code and results interactively.
 
